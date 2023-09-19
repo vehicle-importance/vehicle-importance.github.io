@@ -155,3 +155,23 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.image-box {
+  flex: 0 0 30%; /* Adjust the width of each image box as needed */
+  text-align: center;
+  margin: 1px;
+  height: auto;
+  width: 100%;
+}
+
+.image-box img {
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+}
