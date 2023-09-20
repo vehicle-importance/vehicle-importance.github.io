@@ -1,4 +1,4 @@
-# Nerfies
+# Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving
 
 This repository contains the source code of the [project page](https://vehicle-importance.github.io) for *Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving*
 
